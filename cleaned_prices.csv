@@ -1,0 +1,12 @@
+crop,category,source,market,price,unit,date,distance_km,trust_score
+soybean,pulses,historical_avg,Last Week Avg,4350,quintal,2026-01-23,0,0.8
+cotton,fiber,news_report,Cotton News,6400,quintal,2026-01-29,0,0.65
+wheat,cereals,news_report,Agri News,2350,quintal,2026-01-29,0,0.65
+onion,vegetables,local_trader,Local Trader,1350,quintal,2026-01-30,10,0.6
+rice,cereals,local_market,APMC Market,2700,quintal,2026-01-30,20,0.7
+soybean,pulses,local_trader,Local Village,4200,quintal,2026-01-30,10,0.6
+tomato,vegetables,local_market,APMC Market,1200,quintal,2026-01-30,15,0.75
+wheat,cereals,local_trader,Local Trader,2200,quintal,2026-01-30,15,0.6
+soybean,pulses,local_trader,Some Market,4300,quintal,2026-02-01,12,0.75
+soybean,pulses,local_trader,Some Market,4300,quintal,2026-02-01,12,0.75
+soybean,pulses,local_trader,Some Market,4300,quintal,2026-02-01,12,0.75

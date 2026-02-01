@@ -1,0 +1,19 @@
+crop,category,source,market,price,unit,date,distance_km,trust_score
+soybean,pulses,govt_mandi,Latur,4400,quintal,2026-01-30,40,0.90
+soybean,pulses,local_trader,Local Village,4200,quintal,2026-01-30,10,0.60
+soybean,pulses,historical_avg,Last Week Avg,4350,quintal,2026-01-23,0,0.80
+wheat,cereals,govt_mandi,Pune,2300,quintal,2026-01-30,90,0.80
+wheat,cereals,local_trader,Local Trader,2200,quintal,2026-01-30,15,0.60
+wheat,cereals,news_report,Agri News,2350,quintal,2026-01-29,0,0.65
+rice,cereals,govt_mandi,Nagpur,2800,quintal,2026-01-30,70,0.85
+rice,cereals,local_market,APMC Market,2700,quintal,2026-01-30,20,0.70
+tomato,vegetables,local_market,APMC Market,1200,quintal,2026-01-30,15,0.75
+tomato,vegetables,govt_mandi,Pune,1400,quintal,2026-01-30,110,0.70
+onion,vegetables,govt_mandi,Lasalgaon,1500,quintal,2026-01-30,60,0.90
+onion,vegetables,local_trader,Local Trader,1350,quintal,2026-01-30,10,0.60
+cotton,fiber,govt_mandi,Yavatmal,6200,quintal,2026-01-30,50,0.88
+cotton,fiber,news_report,Cotton News,6400,quintal,2026-01-29,0,0.65
+sugarcane,cash_crop,cooperative_mill,Local Mill,320,ton,2026-01-30,20,0.92
+soybean,pulses,local_trader,Some Market,4300,quintal,2026-02-01,12,0.75
+soybean,pulses,local_trader,Some Market,4300,quintal,2026-02-01,12,0.75
+soybean,pulses,local_trader,Some Market,4300,quintal,2026-02-01,12,0.75
